@@ -1,1 +1,1 @@
-# Gender-Recognition-Car-recognition-and-Neural-Style-Trasnfer
+# Gender Recognition, Car recognition and Neural Style Transfer
